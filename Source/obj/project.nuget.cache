@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKsOJdd+WJpfW2uZNUN0i3dzEF9CYZWr/sfYeOU60It2jVa4poaX9H8RLTiBziB5TLnZNLzzAYeSFh8snM2REg==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\workshop\\content\\294100\\2558276867\\Source\\ThermoDynamics+.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Makin\\.nuget\\packages\\lib.harmony\\2.1.1\\lib.harmony.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

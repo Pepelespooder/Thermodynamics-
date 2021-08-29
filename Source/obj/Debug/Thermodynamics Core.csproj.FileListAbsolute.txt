@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Thermodynamics - Core\1.1\Assemblies\ThermodynamicsCore.dll
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\Thermodynamics Core.csproj.CopyComplete
+C:\Users\Taylor\Desktop\Thermodynamics Core Fork\Source\obj\Debug\ThermodynamicsCore.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2558276867\Source\obj\Debug\Thermodynamics Core.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2558276867\Source\obj\Debug\Thermodynamics Core.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2558276867\Source\obj\Debug\ThermodynamicsCore.dll
+C:\Program Files (x86)\Steam\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Thermodynamics - Core\1.1\Assemblies\ThermodynamicsCore.dll
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2558276867\Source\obj\Debug\Thermodynamics Core.csproj.CopyComplete
